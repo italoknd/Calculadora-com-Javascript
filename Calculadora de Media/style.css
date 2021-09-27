@@ -1,0 +1,31 @@
+body{
+  font-family: 'Roboto Mono',monospace;
+  background-color: rgba(0, 0, 0, 0.959);
+  color: white;
+}
+
+main{
+  text-align: center;
+}
+
+p{
+  font-size: larger;
+}
+
+h2 span{
+  background-color: yellow;
+  padding: 4px;
+}
+
+.notas{
+  padding: 10px;
+}
+
+img{
+  width: 30%;
+  height: 60%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -30%);
+}
