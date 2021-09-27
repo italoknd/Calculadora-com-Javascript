@@ -17,8 +17,15 @@ h2 span{
   padding: 4px;
 }
 
+#inputs{
+  max-width: 500px;
+}
+
 .notas{
-  padding: 10px;
+  margin-right: 300px;
+  margin-top: 10px;
+  padding: 5px 10px;
+  outline: none;
 }
 
 img{
